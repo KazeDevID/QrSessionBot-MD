@@ -13,8 +13,8 @@ QrSessionBot Adalah Tool untuk mengambil qr Md bot kalian
 ## Cara Install
 
 ```
-$ git clone https://github.com/Fokusdotid/Qr-Baileys-MD.git
-$ cd Qr-Baileys-MD
+$ git clone https://github.com/KazeDevID/QrSessionBot-MD.git
+$ cd QrSessionBot-MD
 $ npm i
 $ npm start
 ```
