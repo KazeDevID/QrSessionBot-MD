@@ -1,0 +1,36 @@
+{
+  "name": "QrSessionBot-MD",
+  "version": "1.0.0",
+  "description": "Generate Qr Session Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazeDevID/QrSessionBot-MD.git"
+  },
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp",
+    "games-wabot",
+    "wabot-aq",
+    "adiwajshing/baileys",
+    "baileys-md",
+    "bot",
+    "scanner",
+  ],
+  "author": "KazeDevID",
+  "license": "GPL-3.0 License",
+  "bugs": {
+    "url": "https://github.com/KazeDevID/QrSessionBot-MD/issues"
+  },
+  "homepage": "https://github.com/KazeDevID/QrSessionBot-MD#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
